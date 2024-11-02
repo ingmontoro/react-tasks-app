@@ -13,7 +13,7 @@ function App() {
         />
       </div>
       <div className='tasks-list'>
-        <h1>Mis Tareas</h1>
+        <h1>Mis Tareas Prueba</h1>
         <TasksList />
       </div>
     </div>
